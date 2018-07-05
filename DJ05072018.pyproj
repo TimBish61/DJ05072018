@@ -56,6 +56,8 @@
     <Folder Include="DJ05072018\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".deployment" />
+    <Content Include="deploy.cmd" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
@@ -86,6 +88,7 @@
     <Content Include="app\templates\app\layout.html" />
     <Content Include="app\templates\app\login.html" />
     <Content Include="app\templates\app\loginpartial.html" />
+    <Content Include="WebHandlerConfig.xml" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
