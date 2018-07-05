@@ -42,6 +42,9 @@
     <Compile Include="DJ05072018\settings.py" />
     <Compile Include="DJ05072018\urls.py" />
     <Compile Include="DJ05072018\wsgi.py" />
+    <Compile Include="ptvs_virtualenv_proxy.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\" />
