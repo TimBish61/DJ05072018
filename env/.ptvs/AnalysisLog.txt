@@ -3614,3 +3614,7 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extens
 2018-07-05T16:20:26: Saving group "c:\users\timbi\source\repos\dj05072018\dj05072018\env\lib\site-packages\pytz"
 2018-07-05T16:20:26: End of group "c:\users\timbi\source\repos\dj05072018\dj05072018\env\lib\site-packages\pytz"
 2018-07-05T16:20:28: Deleting 0 files
+
+2018-07-06T07:30:21: Start analysis
+2018-07-06T07:30:21: IncludeModulesFromModulePath = win32com
+2018-07-06T07:30:24: Deleting 0 files
